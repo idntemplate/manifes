@@ -1,0 +1,37 @@
+	
+name	"AffiliateBlogV3"
+short_name	"AffiliateBlogV3"
+start_url	"https://aff-blogger.blogspot.com/"
+display	"standalone"
+background_color	"#fff"
+theme_color	"#C51162"
+description	"Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube."
+icons	
+0	
+src	"https://1.bp.blogspot.com/-RRYTeQZHsfo/Xfiu30HDdaI/AAAAAAAAAcE/GLc94J--WsUUaOOkrieK8Lr33_15sL8NQCLcBGAsYHQ/s1600/48x48.png"
+sizes	"48x48"
+type	"image/png"
+1	
+src	"https://1.bp.blogspot.com/-8Kd_ScgjCqA/Xfiu41txLhI/AAAAAAAAAcM/3DZ8JMZ4a3UlxnjkGDm1pTWO8OAc6xl-wCLcBGAsYHQ/s1600/72x72.png"
+sizes	"72x72"
+type	"image/png"
+2	
+src	"https://1.bp.blogspot.com/-5SOm88k3MgI/Xfiu4yj8gnI/AAAAAAAAAcQ/h4a4Aso5HjgXx76Ibc5sJi3ly8TdWWuvgCLcBGAsYHQ/s1600/96x96.png"
+sizes	"96x96"
+type	"image/png"
+3	
+src	"https://1.bp.blogspot.com/-mVoxpNGDTHg/Xfiu2ixmVYI/AAAAAAAAAb4/0P-il5v5oW03Y7WNB36TgRY5E_BK87InQCLcBGAsYHQ/s1600/144x144.png"
+sizes	"144x144"
+type	"image/png"
+4	
+src	"https://1.bp.blogspot.com/-cReHqJX5L1U/Xfiu2p7uVpI/AAAAAAAAAcA/_T8NxuZKo6co2pCYStXSpa8SzXc3r_3NACLcBGAsYHQ/s1600/168x168.png"
+sizes	"168x168"
+type	"image/png"
+5	
+src	"https://1.bp.blogspot.com/-dY2x6ykke94/Xfiu2tKVvgI/AAAAAAAAAb8/ZDp_uWkdR5wD26d0PIgP3WS4QslC9VCLACLcBGAsYHQ/s1600/192x192.png"
+sizes	"192x192"
+type	"image/png"
+6	
+src	"https://1.bp.blogspot.com/-pBlx18NepG8/Xfiu4Cd4SfI/AAAAAAAAAcI/hQAM9inr3q824mksxwkjx1JKZ8liULC4QCLcBGAsYHQ/s1600/512x512.png"
+sizes	"512x512"
+type	"image/png"
